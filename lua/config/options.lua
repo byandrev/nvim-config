@@ -118,3 +118,4 @@ end
 -- cmd.colorscheme("rose-pine")
 -- cmd.colorscheme("nord")
 cmd.colorscheme("everforest")
+-- cmd.colorscheme("iceberg")

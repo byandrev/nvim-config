@@ -57,8 +57,12 @@ return { -- Rose-pine - Soho vibes for Neovim
     "folke/tokyonight.nvim",
     lazy = true
 },
-  {
-    "sainnhe/everforest"
-}, {
-		"shaunsingh/nord.nvim"
-	}}
+{
+  "sainnhe/everforest"
+},
+{
+  "shaunsingh/nord.nvim"
+},
+{
+    "cocopon/iceberg.vim"
+}}
